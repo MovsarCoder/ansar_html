@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://avatars.dzeninfra.ru/get-zen_doc/1705407/pub_606f0e3e1549831c6095e265_606f0e5cf597d466f2d79464/orig');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-family: Verdana;
+    text-align: center;
+}
