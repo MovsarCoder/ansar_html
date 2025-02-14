@@ -1,0 +1,94 @@
+header {
+    font-family: 'Roboto' serif;
+    font-size: 20px;
+}
+
+header ul {
+    display: flex;
+}
+
+header ul li {
+    list-style-type: none;
+    margin-right: 45px;
+}
+
+header {
+    padding: 20px 0px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.simple h1 {
+    font-size: 60px;
+    font-weight: 400;
+    color: #4C5866;
+    line-height: 60px;
+}
+
+.simple p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #85859B;
+    line-height: 27px;
+    margin-bottom: 30px;
+}
+
+.simple button {
+    font-size: 20px;
+    background-color: inherit;
+    padding: 20px 50px;
+    border: 3px solid #7875FE;
+    color: #7875FE;
+}
+
+
+.colors {
+    padding-top: 30px;
+    background-color: #EBEBEB;
+}
+
+.colors .wrapper-div {
+    display: flex;
+    border-top: 1px solid #c0c0c0;
+    padding-top: 30px;
+}
+
+.colors h2 {
+    padding-top: 20px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.colors p {
+    font-size: 18px;
+    line-height: 27px;
+    color: #85859B;
+}
+
+
+.storona-img {
+    background-color: cover;
+}
+
+.colors .continue {
+    margin-top: 100px;
+}
+
+.colors .text {
+    margin-top: 80px;
+}
+
+.colors .text h1 {
+    color: #666666;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.colors .text p {
+    color: #85859B;
+    line-height: 30.6px;
+    font-size: 18px;    
+}

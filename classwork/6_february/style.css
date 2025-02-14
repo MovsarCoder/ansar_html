@@ -1,0 +1,31 @@
+.test {
+    font-size: 24px;
+}
+
+
+/* .first {
+ background-color: greenyellow;
+}
+
+.second {
+    background-color: blue;
+}
+
+.third {
+    background-color: green;
+}
+
+.fourch {
+    background-color: rgb(6, 255, 188);
+} */
+
+.class_ul>ul {
+display: flex;
+list-style-type: none;
+}
+
+.class_ul>ul>li{
+display: flex;
+padding-left: 70px;
+}
+
